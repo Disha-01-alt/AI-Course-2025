@@ -14,7 +14,7 @@ Welcome to the official repository for the 2025 Artificial Intelligence course. 
   📓 Implemented in **`bfs_dfs_optimal_path.ipynb`**
 
 - **Greedy Best-First Search (GBFS)**  
-  📓 Implemented in **`greedy_best_first_search.ipynb`**
+  📓 Implemented in **`greedy_bfs.ipynb`**
 
 - **A\* Search**  
   📓 Implemented in **`a_star_search.ipynb`**
